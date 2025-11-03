@@ -1,0 +1,13 @@
+# Fichiers compilés
+*.class
+
+# Dossier de build
+/bin/
+out/
+
+# Fichiers IDE
+*.iml
+*.classpath
+*.project
+.idea/
+.vscode/
